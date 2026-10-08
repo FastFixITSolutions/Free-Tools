@@ -8,7 +8,7 @@ These tools are developed and provided entirely **for free** courtesy of **[Fast
 
 ## 🛠️ Included Utilities
 
-### 1. Fast Fix Uninstaller (`script.exe`)
+### 1. Fast Fix Uninstaller (`Uninstaller.exe`)
 A surgical force-uninstaller built for scenarios where the native Windows "Apps & Features" control panel fails, or when application uninstallers are corrupted or missing.
 * **Full Registry Scans:** Enumerates hidden 32-bit and 64-bit software entries.
 * **Instant Search Filter:** Real-time search to pinpoint stubborn programs instantly.
